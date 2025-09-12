@@ -1,2 +1,2 @@
 # HW1
-git checkout -b feature/SCRUM4-registration-form
+git checkout -b feature/SCRUM-3-registration-form
